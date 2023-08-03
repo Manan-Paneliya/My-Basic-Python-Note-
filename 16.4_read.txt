@@ -1,0 +1,4 @@
+print("Jay Swaminarayan")
+print("Hari Krushan Maharaj")
+print("Ghanshyam Maharaj")
+print("Hari")
